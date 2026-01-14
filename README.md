@@ -1,6 +1,6 @@
-# 19-2nd-Wa-Grano-frontend
+# Grano-frontend
 
-# Team Wagrano
+# Project 'verto-core app'
 
 ---
 
